@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sandeep Pansari</h1>
+<h1 align="center">Hi 👋, I'm Sandeep P</h1>
 <h3 align="center">A passionate Software Development Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeep18p&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep18p" /> </p>
